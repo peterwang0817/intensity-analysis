@@ -1,0 +1,5 @@
+use code to analyze 4 300nm blocks
+
+p16 to p17
+color bar for each power
+use fft to smooth curve
